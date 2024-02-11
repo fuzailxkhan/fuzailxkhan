@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Muhammad Fuzail Khan, a passionate MERN (Mongo
 
 Here is one of the projects I've worked on:
 
-- [Project 1](link): Brief description of the project.
+- E-Commerce Store (link): Brief description of the project.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
