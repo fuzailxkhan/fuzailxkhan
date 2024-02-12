@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Muhammad Fuzail Khan, a passionate MERN (Mongo
 
 Here is one of the projects I've worked on:
 
-- E-Commerce Store (link): Brief description of the project.
+<a href="https://github.com/fuzailxkhan/store">-E-Commerce Store<a>: <br/> Our e-commerce store project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, offering developers a comprehensive example of building a full-fledged online shopping platform.
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
