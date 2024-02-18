@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Muhammad Fuzail Khan, a passionate MERN (Mongo
 ## About Me
 
 - 🚀 I specialize in building full-stack web applications using the MERN stack.
-- 💻 I'm experienced in front-end development with React.js, including Redux, Context API, and other state management libraries.
+- 💻 I'm experienced in front-end development with React.js, including Redux, Context API, and other state management libraries along with Bootstrap and different UI libraries.
 - 🌐 On the back-end, I have expertise in Node.js and Express.js for building RESTful APIs and server-side logic.
 - 📊 I'm familiar with database technologies like MongoDB, SQL, and NoSQL databases.
 - 🔧 I have a good understanding of software development best practices, including version control (Git), testing, and deployment.
