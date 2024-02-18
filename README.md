@@ -24,5 +24,5 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 ## Let's Connect
 
 - 📫 You can reach me via email at fuzailxkhan@gmail.com.
-- 💼 Connect with me on LinkedIn https://linkedin.com/in/muhammad-fuzail-khan-29936b2ab/.
+- 💼 Connect with me on LinkedIn https://linkedin.com/in/fuzailxkhan/.
 
