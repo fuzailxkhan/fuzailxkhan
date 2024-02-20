@@ -15,8 +15,8 @@ I'm Muhammad Fuzail Khan, a passionate MERN (MongoDB, Express.js, React.js, Node
 
 Here are some of the projects I've worked on:
 
-###<a href="https://github.com/fuzailxkhan/store">E-Commerce Store<a> : <br/> My e-commerce store project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, offering developers a comprehensive example of building a full-fledged online shopping platform.<br/>
-###<a href="https://github.com/fuzailxkhan/weatherapp">Weather App<a> : <br/> My Weather App is a MERN stack application, built with TypeScript, providing current weather information for any location. Users can search by city name to view detailed weather data, including temperature, humidity, and wind speed. With a user-friendly interface, our app offers a seamless way to stay informed about the weather.
+## <a href="https://github.com/fuzailxkhan/store">E-Commerce Store<a> : <br/> My e-commerce store project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, offering developers a comprehensive example of building a full-fledged online shopping platform.<br/>
+## <a href="https://github.com/fuzailxkhan/weatherapp">Weather App<a> : <br/> My Weather App is a MERN stack application, built with TypeScript, providing current weather information for any location. Users can search by city name to view detailed weather data, including temperature, humidity, and wind speed. With a user-friendly interface, our app offers a seamless way to stay informed about the weather.
 
 
 Feel free to explore my GitHub repositories for more projects and code samples.
