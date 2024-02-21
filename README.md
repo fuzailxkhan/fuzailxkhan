@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Muhammad Fuzail Khan, a passionate MERN (MongoDB, Express.js, React.js, Node.js) developer who specializes in building web applications and APIs.
+I'm Muhammad Fuzail Khan, a passionate MERN developer who specializes in building web applications and APIs.
 
 ## About Me
 
