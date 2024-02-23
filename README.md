@@ -3,7 +3,7 @@
 I'm Muhammad Fuzail Khan, a passionate MERN Stack developer who specializes in building web applications.
 
 ## Skills
--JavaScript  -React  -NodeJs  -ExpressJs  -MongoDB -TypeScript 
+-JavaScript  -React  -NodeJs  -ExpressJs  -MongoDB  -TypeScript  -NextJs
 
 ## About Me
 
