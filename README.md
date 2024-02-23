@@ -2,6 +2,8 @@
 
 I'm Muhammad Fuzail Khan, a passionate MERN Stack developer who specializes in building web applications.
 
+## Skills
+
 ## About Me
 
 - 🚀 I specialize in building full-stack web applications using the MERN stack.
