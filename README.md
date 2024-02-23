@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello 👋
 
 I'm Muhammad Fuzail Khan, a passionate MERN Stack developer who specializes in building web applications.
 
